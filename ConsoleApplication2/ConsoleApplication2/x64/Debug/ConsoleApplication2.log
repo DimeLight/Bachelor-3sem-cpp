@@ -1,0 +1,7 @@
+﻿  Sol.cpp
+c:\users\user\source\repos\consoleapplication2\consoleapplication2\sol.cpp(65): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
