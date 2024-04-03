@@ -47,7 +47,7 @@ y(e) = √( e / ( 4 ln⁡e ) ) = √e / 2
 
 {y∈R:y≥√e/2}
 
-###График функции:
+### График функции:
 
 ![image](https://github.com/DimeLight/Kypca4-cpp-3sem/assets/99740101/800c81fa-2e44-4842-a643-169ebf95608c)
 
